@@ -1,4 +1,4 @@
-### 👋 Hi there
+### 👋 Eai
 
 Eu sou um estudante de ADS
 
