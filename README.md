@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-Estou treinando para ser um Programador
+Estou Estudando para ser um Programador
 
 * 🌱   Atualmente estou aprendendo html,c++, e pretendo fazer java script e python
 * 🌱   Curso na Ficr
