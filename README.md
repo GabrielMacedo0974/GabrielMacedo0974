@@ -5,7 +5,7 @@
 Estou Estudando para ser um Programador
 
 * 🌱   Atualmente estou aprendendo html,c++, e pretendo fazer java script e python
-* 🌱   Curso na Ficr
+* 🌱   Curso na Ficr/Primeiro periodo
 * 🔭   Estou Olhando para futuros estágios
 ---
 
