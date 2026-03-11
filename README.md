@@ -7,8 +7,9 @@ Estou Estudando para ser um Programador
 * 🌱   Atualmente estou aprendendo html,c++, e pretendo fazer java script e python
 * 🌱   Curso na Ficr/Primeiro periodo
 * 🔭   Estou Olhando para futuros estágios
+* 📫   Gabrielmacedo097430@gmail.com
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMacedo0974&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMacedo0974&exclude_repo=github-readme-stats,0x03c1.github.io)
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
