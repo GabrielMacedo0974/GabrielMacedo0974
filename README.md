@@ -9,7 +9,6 @@ Estou Estudando para ser um Programador
 * 🔭   Estou Olhando para futuros estágios
 * 📫   Gabrielmacedo097430@gmail.com
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMacedo0974&exclude_repo=github-readme-stats,0x03c1.github.io)
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
