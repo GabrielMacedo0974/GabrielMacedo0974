@@ -4,9 +4,9 @@
 
 Estou Estudando para ser um Programador
 
-* 🌱   Atualmente estou aprendendo html,c++, e pretendo fazer java script e python
-* 🌱   Curso na Ficr/Primeiro periodo
-* 🔭   Estou Olhando para futuros estágios
+* 🌱   Atualmente estou aprendendo Css,Java Script, e pretendo aprender Python e React no futuro
+* 🌱   Curso na Ficr / 2º periodo
+* 🔭   Estou visando para futuros estágios
 * 📫   Gabrielmacedo097430@gmail.com
 ---
 <!--
